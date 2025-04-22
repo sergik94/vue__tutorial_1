@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "type": "module",
+  "homepage": "https://sergik94.github.io/vue__tutorial_1/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
